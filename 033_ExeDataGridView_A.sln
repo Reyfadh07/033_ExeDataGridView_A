@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033_ExeDataGridView_A", "033_ExeDataGridView_A\033_ExeDataGridView_A.csproj", "{ABCBF1F2-D2F4-4F6D-B249-530B30021174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCBF1F2-D2F4-4F6D-B249-530B30021174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCBF1F2-D2F4-4F6D-B249-530B30021174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCBF1F2-D2F4-4F6D-B249-530B30021174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCBF1F2-D2F4-4F6D-B249-530B30021174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A396DD55-EF4E-4610-B3AA-06947A7C7E77}
+	EndGlobalSection
+EndGlobal
